@@ -15,7 +15,7 @@ public enum LogType {
 
 public class Logger {
     
-    static func printIfDebug(data: String, logType: LogType) {
+   public static func printIfDebug(data: String, logType: LogType) {
 #if DEBUG
         switch logType {
         case .success:
