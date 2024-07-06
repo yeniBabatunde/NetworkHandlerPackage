@@ -28,8 +28,8 @@ public class NetworkHandler: NetworkHandling {
             return
         }
         
-        components.queryItems = components.queryItems ?? []
         if let apiKey {
+            components.queryItems = components.queryItems ?? []
             components.queryItems?.append(URLQueryItem(name: "api_key", value: apiKey))
         }
         guard let urlWithApiKey = components.url else {
