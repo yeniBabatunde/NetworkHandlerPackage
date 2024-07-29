@@ -7,6 +7,7 @@
 
 import Foundation
 
+
 public protocol NetworkHandling {
     func request<T: Decodable>(with urlString: String,
                                method: HTTPMethod?,
