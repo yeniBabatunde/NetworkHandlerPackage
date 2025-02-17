@@ -1,0 +1,4 @@
+module NetworkHandling {
+    header "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandling-Swift.h"
+    requires objc
+}

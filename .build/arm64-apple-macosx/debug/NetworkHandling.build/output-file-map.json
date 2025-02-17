@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/master.swiftdeps"
+  },
+  "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/HTTPMethod.swift": {
+    "dependencies": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/HTTPMethod.d",
+    "object": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/HTTPMethod.swift.o",
+    "swiftmodule": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/HTTPMethod.swiftdeps"
+  },
+  "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/Logger.swift": {
+    "dependencies": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/Logger.d",
+    "object": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/Logger.swift.o",
+    "swiftmodule": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/Logger.swiftdeps"
+  },
+  "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandler.swift": {
+    "dependencies": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandler.d",
+    "object": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandler.swift.o",
+    "swiftmodule": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandler.swiftdeps"
+  },
+  "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandling.swift": {
+    "dependencies": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandling.d",
+    "object": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandling.swift.o",
+    "swiftmodule": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandling~partial.swiftmodule",
+    "swift-dependencies": "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandling.swiftdeps"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.NetworkHandling-arm64-apple-macosx15.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/sources",
+      "importPath" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/Logger.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandling.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "NetworkHandling",
+      "moduleOutputPath" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/Modules/NetworkHandling.swiftmodule",
+      "objects" : [
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/HTTPMethod.swift.o",
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/Logger.swift.o",
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandler.swift.o",
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandling.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.15",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandling-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "networkpackagehandler"
+      ],
+      "outputFileMapPath" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/HTTPMethod.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/Logger.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandling.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/Modules/NetworkHandling.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/HTTPMethod.swift",
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/Logger.swift",
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandler.swift",
+        "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandling.swift"
+      ],
+      "tempsPath" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "NetworkHandling" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "NetworkHandling",
+      "-package-name",
+      "networkpackagehandler",
+      "-incremental",
+      "-c",
+      "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/HTTPMethod.swift",
+      "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/Logger.swift",
+      "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandler.swift",
+      "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandling.swift",
+      "-I",
+      "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.15",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/NetworkHandling-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "networkpackagehandler",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "NetworkHandling" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "writeCommands" : {
+    "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/Logger.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/Sources/NetworkHandling/NetworkHandling.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/NetworkHandling.build/sources"
+    },
+    "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/sharon-omoyeni/Documents/Github/NetworkPackageHandler/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
